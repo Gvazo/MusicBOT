@@ -28,9 +28,6 @@
   * WAV
   * Matroska/WebM (AAC, Opus or Vorbis codecs)
   * MP4/M4A (AAC codec)
-  * OGG streams (Opus, Vorbis and FLAC codecs)
-  * AAC streams
-  * Stream playlists (M3U and PLS)
 
 
 ## Editing
